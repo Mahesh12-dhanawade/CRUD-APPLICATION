@@ -7,23 +7,26 @@ import { Observable } from 'rxjs';
 })
 export class EmplyoeeService {
 
+ 
+  baseUrl = "https://backend-crud-fb9d.onrender.com/";
+  
   constructor(private http:HttpClient) { }
   
 
+
   addEmp(data:any): Observable<any>{
-    return this.http.post(' http://localhost:3000/emplyoee', data)
+    return this.http.post(this.baseUrl + '/emplyoee', data)
   }
 
   updateEmp(id:number , data:any): Observable<any>{
-    return this.http.put(`http://localhost:3000/emplyoee/${id}`, data)
+    return this.http.put( this.baseUrl + `emplyoee/${id}`, data)
   }
   
   getEmpList(): Observable<any>{
-    return this.http.get('http://localhost:3000/emplyoee')
+    return this.http.get(this.baseUrl + 'emplyoee')
   }
 
   deleteEmp(id:number): Observable<any>{
-    
-    return this.http.delete(`http://localhost:3000/emplyoee/${id}`)
+    return this.http.delete(this.baseUrl + `emplyoee/${id}`)
   }
 }
