@@ -9,6 +9,7 @@ This is a CRUD (Create, Read, Update, Delete) application built using Angular.
 3) You can edit the added user by clicking on edit icon . After you have to press update icon.
 ![image](https://github.com/Mahesh12-dhanawade/CRUD-APPLICATION/assets/78845539/f8e1205b-8b2a-49c9-8d57-5a71b3e76a9d)
 
+4) Updated Information.
 ![image](https://github.com/Mahesh12-dhanawade/CRUD-APPLICATION/assets/78845539/293f01c0-82ee-49c5-9228-f437f1740aa2)
 
 ![image](https://github.com/Mahesh12-dhanawade/CRUD-APPLICATION/assets/78845539/33e10d69-a2af-4863-9b30-ab18ed9386fd)
