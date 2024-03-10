@@ -1,8 +1,12 @@
-CRUD APP USING ANGULAR. 
+This is a CRUD (Create, Read, Update, Delete) application built using Angular. 
+
+1) You will get list of emplyoee users as like shown in image below.
 ![image](https://github.com/Mahesh12-dhanawade/CRUD-APPLICATION/assets/78845539/ac529e10-88a0-4ef5-997f-31905b0d235e)
+
+2) To add user, you must need to click on add emplyoee button. 
 ![image](https://github.com/Mahesh12-dhanawade/CRUD-APPLICATION/assets/78845539/43caa34f-2a42-434c-8274-63dc46898ba0)
 
-
+3) You can edit the added user by clicking on edit icon .
 ![image](https://github.com/Mahesh12-dhanawade/CRUD-APPLICATION/assets/78845539/3cce8c30-320a-4511-a76c-481c92635a47)
 
 ![image](https://github.com/Mahesh12-dhanawade/CRUD-APPLICATION/assets/78845539/f8e1205b-8b2a-49c9-8d57-5a71b3e76a9d)
