@@ -12,10 +12,14 @@ This is a CRUD (Create, Read, Update, Delete) application built using Angular.
 4) Updated Information.
 ![image](https://github.com/Mahesh12-dhanawade/CRUD-APPLICATION/assets/78845539/293f01c0-82ee-49c5-9228-f437f1740aa2)
 
-
+5) After clicking on update button you will get alert. 
 ![image](https://github.com/Mahesh12-dhanawade/CRUD-APPLICATION/assets/78845539/33e10d69-a2af-4863-9b30-ab18ed9386fd)
 
+6) You can delete particular user using delete icon.
+![image](https://github.com/Mahesh12-dhanawade/CRUD-APPLICATION/assets/78845539/07c79e3a-753b-48bf-bcb5-cc0ce423fca8)
 
+
+7) Added pagination based on itmes per page.
 ![image](https://github.com/Mahesh12-dhanawade/CRUD-APPLICATION/assets/78845539/a6e926bb-bf90-4dfe-94ee-fe6239ee408f)
 
 ![image](https://github.com/Mahesh12-dhanawade/CRUD-APPLICATION/assets/78845539/a4368ce6-e0d0-4a75-bff5-030e1ef70229)
