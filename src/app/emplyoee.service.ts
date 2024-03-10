@@ -15,7 +15,7 @@ export class EmplyoeeService {
 
 
   addEmp(data:any): Observable<any>{
-    return this.http.post(this.baseUrl + '/emplyoee', data)
+    return this.http.post(this.baseUrl + 'emplyoee', data)
   }
 
   updateEmp(id:number , data:any): Observable<any>{
