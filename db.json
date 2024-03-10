@@ -1,0 +1,39 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": "1",
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "emplyoee": [
+    {
+      "firstname": "onkar",
+      "lastname": "vidhate",
+      "email": "onkar@gmail.com",
+      "dob": "2000-01-19T18:30:00.000Z",
+      "gender": "male",
+      "education": "Graduation",
+      "id": "2"
+    },
+    {
+      "firstname": "Amol",
+      "lastname": "Gole",
+      "email": "amol@gmail.com",
+      "dob": "1998-07-22T18:30:00.000Z",
+      "gender": "male",
+      "education": "Graduation",
+      "id": "4"
+    }
+  ]
+}
