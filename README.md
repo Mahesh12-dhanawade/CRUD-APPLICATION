@@ -6,7 +6,7 @@ This is a CRUD (Create, Read, Update, Delete) application built using Angular.
 2) To add user, you must need to click on add emplyoee button and after adding information click on save button.
 ![image](https://github.com/Mahesh12-dhanawade/CRUD-APPLICATION/assets/78845539/43caa34f-2a42-434c-8274-63dc46898ba0)
 
-3) You can edit the added user by clicking on edit icon . 
+3) You can edit the added user by clicking on edit icon . After you have to press update icon.
 ![image](https://github.com/Mahesh12-dhanawade/CRUD-APPLICATION/assets/78845539/f8e1205b-8b2a-49c9-8d57-5a71b3e76a9d)
 
 ![image](https://github.com/Mahesh12-dhanawade/CRUD-APPLICATION/assets/78845539/293f01c0-82ee-49c5-9228-f437f1740aa2)
