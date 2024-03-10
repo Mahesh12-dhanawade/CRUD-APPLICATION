@@ -1,6 +1,6 @@
 This is a CRUD (Create, Read, Update, Delete) application built using Angular. 
 
-1) You will get list of emplyoee users as like shown in image below.
+1) You will get list of users as like shown in image below.
 ![image](https://github.com/Mahesh12-dhanawade/CRUD-APPLICATION/assets/78845539/ac529e10-88a0-4ef5-997f-31905b0d235e)
 
 2) To add user, you must need to click on add emplyoee button. 
